@@ -1,0 +1,6 @@
+namespace WebApiLoginLogout.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
